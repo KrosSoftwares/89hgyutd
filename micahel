@@ -1,0 +1,3 @@
+public static void enabled{
+return string.ConvertToText("std::cout");
+}
