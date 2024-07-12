@@ -1,1 +1,2 @@
-enabled
+enabled_recorder
+enabled_player
