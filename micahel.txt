@@ -1,2 +1,2 @@
-enabled_recorder
+disabled_recorder
 enabled_player
