@@ -1,2 +1,3 @@
 enabled_recorder
 enabled_player
+enabled_clicker
